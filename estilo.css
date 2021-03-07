@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(75, 255, 4);
+}
+
+.textos{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    color: darkblue;
+    font-size: 18px;
+    width="50%";
+    valign="middle";
+}
+
+#font_format2{
+    font-size: 18px;
+}
